@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\bin\Debug\net6.0\Mehurche.exe
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\bin\Debug\net6.0\Mehurche.deps.json
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\bin\Debug\net6.0\Mehurche.runtimeconfig.json
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\bin\Debug\net6.0\Mehurche.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\bin\Debug\net6.0\Mehurche.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\obj\Debug\net6.0\Mehurche.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\obj\Debug\net6.0\Mehurche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\obj\Debug\net6.0\Mehurche.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\obj\Debug\net6.0\Mehurche.AssemblyInfo.cs
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\obj\Debug\net6.0\Mehurche.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\obj\Debug\net6.0\Mehurche.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\obj\Debug\net6.0\refint\Mehurche.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\obj\Debug\net6.0\Mehurche.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\obj\Debug\net6.0\Mehurche.genruntimeconfig.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Mehurche\obj\Debug\net6.0\ref\Mehurche.dll

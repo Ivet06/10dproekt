@@ -1,0 +1,17 @@
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\bin\Debug\net6.0-windows\GodishniVremena.exe
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\bin\Debug\net6.0-windows\GodishniVremena.deps.json
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\bin\Debug\net6.0-windows\GodishniVremena.runtimeconfig.json
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\bin\Debug\net6.0-windows\GodishniVremena.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\bin\Debug\net6.0-windows\GodishniVremena.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\obj\Debug\net6.0-windows\GodishniVremena.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\obj\Debug\net6.0-windows\GodishniVremena.Form1.resources
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\obj\Debug\net6.0-windows\GodishniVremena.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\obj\Debug\net6.0-windows\GodishniVremena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\obj\Debug\net6.0-windows\GodishniVremena.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\obj\Debug\net6.0-windows\GodishniVremena.AssemblyInfo.cs
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\obj\Debug\net6.0-windows\GodishniVremena.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\obj\Debug\net6.0-windows\GodishniVremena.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\obj\Debug\net6.0-windows\refint\GodishniVremena.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\obj\Debug\net6.0-windows\GodishniVremena.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\obj\Debug\net6.0-windows\GodishniVremena.genruntimeconfig.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\GodishniVremena\obj\Debug\net6.0-windows\ref\GodishniVremena.dll

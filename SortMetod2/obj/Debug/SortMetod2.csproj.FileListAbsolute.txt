@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\SortMetod2\bin\Debug\SortMetod2.exe.config
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\SortMetod2\bin\Debug\SortMetod2.exe
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\SortMetod2\bin\Debug\SortMetod2.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\SortMetod2\obj\Debug\SortMetod2.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\SortMetod2\obj\Debug\SortMetod2.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\SortMetod2\obj\Debug\SortMetod2.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\SortMetod2\obj\Debug\SortMetod2.exe
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\SortMetod2\obj\Debug\SortMetod2.pdb

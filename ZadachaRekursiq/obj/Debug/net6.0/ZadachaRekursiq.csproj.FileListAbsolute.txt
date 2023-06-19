@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\bin\Debug\net6.0\ZadachaRekursiq.exe
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\bin\Debug\net6.0\ZadachaRekursiq.deps.json
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\bin\Debug\net6.0\ZadachaRekursiq.runtimeconfig.json
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\bin\Debug\net6.0\ZadachaRekursiq.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\bin\Debug\net6.0\ZadachaRekursiq.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\obj\Debug\net6.0\ZadachaRekursiq.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\obj\Debug\net6.0\ZadachaRekursiq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\obj\Debug\net6.0\ZadachaRekursiq.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\obj\Debug\net6.0\ZadachaRekursiq.AssemblyInfo.cs
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\obj\Debug\net6.0\ZadachaRekursiq.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\obj\Debug\net6.0\ZadachaRekursiq.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\obj\Debug\net6.0\refint\ZadachaRekursiq.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\obj\Debug\net6.0\ZadachaRekursiq.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\obj\Debug\net6.0\ZadachaRekursiq.genruntimeconfig.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ZadachaRekursiq\obj\Debug\net6.0\ref\ZadachaRekursiq.dll

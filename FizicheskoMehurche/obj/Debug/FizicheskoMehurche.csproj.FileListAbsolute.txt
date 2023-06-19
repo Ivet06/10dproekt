@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\FizicheskoMehurche\bin\Debug\FizicheskoMehurche.exe.config
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\FizicheskoMehurche\bin\Debug\FizicheskoMehurche.exe
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\FizicheskoMehurche\bin\Debug\FizicheskoMehurche.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\FizicheskoMehurche\obj\Debug\FizicheskoMehurche.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\FizicheskoMehurche\obj\Debug\FizicheskoMehurche.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\FizicheskoMehurche\obj\Debug\FizicheskoMehurche.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\FizicheskoMehurche\obj\Debug\FizicheskoMehurche.exe
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\FizicheskoMehurche\obj\Debug\FizicheskoMehurche.pdb

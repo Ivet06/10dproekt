@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\bin\Debug\net6.0\Rekursiq.exe
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\bin\Debug\net6.0\Rekursiq.deps.json
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\bin\Debug\net6.0\Rekursiq.runtimeconfig.json
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\bin\Debug\net6.0\Rekursiq.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\bin\Debug\net6.0\Rekursiq.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\obj\Debug\net6.0\Rekursiq.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\obj\Debug\net6.0\Rekursiq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\obj\Debug\net6.0\Rekursiq.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\obj\Debug\net6.0\Rekursiq.AssemblyInfo.cs
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\obj\Debug\net6.0\Rekursiq.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\obj\Debug\net6.0\Rekursiq.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\obj\Debug\net6.0\refint\Rekursiq.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\obj\Debug\net6.0\Rekursiq.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\obj\Debug\net6.0\Rekursiq.genruntimeconfig.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\Rekursiq\obj\Debug\net6.0\ref\Rekursiq.dll

@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\KrosovoBqgane\bin\Debug\KrosovoBqgane.exe.config
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\KrosovoBqgane\bin\Debug\KrosovoBqgane.exe
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\KrosovoBqgane\bin\Debug\KrosovoBqgane.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\KrosovoBqgane\obj\Debug\KrosovoBqgane.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\KrosovoBqgane\obj\Debug\KrosovoBqgane.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\KrosovoBqgane\obj\Debug\KrosovoBqgane.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\KrosovoBqgane\obj\Debug\KrosovoBqgane.exe
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\KrosovoBqgane\obj\Debug\KrosovoBqgane.pdb
